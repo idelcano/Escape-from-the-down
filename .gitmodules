@@ -1,0 +1,3 @@
+[submodule "library/phaser"]
+	path = library/phaser
+	url = https://github.com/photonstorm/phaser.git
